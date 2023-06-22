@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
+baseURL = "https://harmoniculture.netlify.app"
 languageCode = "fr-fr"
 title = "Harmoni Culture - Plongez dans un monde d'actualités et de culture en harmonie"
 theme = "liva-hugo"
