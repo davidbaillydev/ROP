@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Les enjeux électoraux de l'année : Analyse des candidats et des programmes" 
+date: 2023-01-29T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -11,13 +11,14 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Politique"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "PolitiqueEnVogue"
+  - "CultureInspire"
+  - "Scientifica"
+  - "ÉcoRespire"
+  - "SociétéEngagée"
+  - "SportPassionné"
 
 # post type
 type: "featured"

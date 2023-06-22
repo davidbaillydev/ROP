@@ -1,23 +1,24 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Les héros méconnus du sport : Récits inspirants d'athlètes paralympiques"
+date: 2023-01-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-3.jpg"
+image: "images/post/post-6.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML"
+  - "Sport"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "PolitiqueEnVogue"
+  - "CultureInspire"
+  - "Scientifica"
+  - "ÉcoRespire"
+  - "SociétéEngagée"
+  - "SportPassionné"
 
 # post type
 type: "post"

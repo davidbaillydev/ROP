@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "L'évolution de l'apprentissage en ligne : Les avantages de l'éducation à distance"
+date: 2023-01-29T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -11,13 +11,14 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Éducation"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "PolitiqueEnVogue"
+  - "CultureInspire"
+  - "Scientifica"
+  - "ÉcoRespire"
+  - "SociétéEngagée"
+  - "SportPassionné"
 
 # post type
 type: "post"

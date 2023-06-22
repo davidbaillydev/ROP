@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
-languageCode = "en-us"
-title = "Liva | Personal blog template"
+languageCode = "fr-fr"
+title = "Harmoni Culture - Plongez dans un monde d'actualités et de culture en harmonie"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,12 +45,12 @@ URL = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "harmoni culture"
 URL = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Post"
+name = "Actualité"
 URL = "blog/"
 weight = 2
 
@@ -61,17 +61,17 @@ weight = 3
 
 # footer menu
 [[menu.footer]]
-name = "About"
+name = "harmoni culture"
 URL = "about/"
 weight = 1
 
 [[menu.footer]]
-name = "Post"
+name = "Actualité"
 URL = "blog/"
 weight = 2
 
 [[menu.footer]]
-name = "Contact"
+name = "Actualité"
 URL = "contact/"
 weight = 3
 
@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "harmoni culture"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -104,8 +104,8 @@ enable = true
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "S'inscrire à notre newsletter"
+content = "Rejoignez notre communauté vibrante et restez connecté avec le monde de la culture et de l'actualité ! Inscrivez-vous dès maintenant à notre newsletter pour ne manquer aucune mise à jour, aucun article captivant et aucune découverte inspirante."
 
 
 # cookies
@@ -130,10 +130,10 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "github"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "linkedin"
